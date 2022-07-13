@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.top-data{
+    padding: 30px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
+.top-data{
+    display: flex;
+}
+
+.text-data{
+margin-top: 100px;
+margin-left: 20px;
+font-size: 30px;
+}
+span{
+    color :lightsalmon;
+}
+
+.text-data p, h4, h2{
+    margin-top: 30px ;
+
+}
+section{
+    display: flex;
+}
+a{
+    background-color: brown;
+    color: #fff;
+    
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
